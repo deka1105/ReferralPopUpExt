@@ -1,0 +1,13 @@
+Use Visual Basic
+
+Step 1. [Success]
+Followed instructions
+https://www.npmjs.com/package/create-web-ext
+1.a run command - to install 
+    npm install -g create-web-ext
+1.b run command - to check installation successfully
+    create-web-ext -v
+        output: create-web-ext version 1.0.0
+1.c run command to create extension skeleton
+    create-web-ext 
+        Folder with extension name would be created
